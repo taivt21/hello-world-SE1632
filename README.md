@@ -2,7 +2,7 @@
 ### You will find in this repo the following stuff:
 
 * A Java project regarding to..
-*.gitignore file to tell Git which file is uploaded or not
-*...
+* .gitignore file to tell Git which file is uploaded or not
+* ...
 
 #### taivt
